@@ -19,6 +19,6 @@ function switchAge(age) {
 }
 
 
-if (13<age || age<19){
+if (age){
   basicTeenager()
 }
