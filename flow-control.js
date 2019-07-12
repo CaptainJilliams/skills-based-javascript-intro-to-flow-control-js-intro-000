@@ -17,3 +17,8 @@ function ternaryTeenager(age) {
 function switchAge(age) {
 
 }
+
+
+if (basicTeenager){
+  "You are a teenager!"
+}
