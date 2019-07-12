@@ -19,6 +19,6 @@ function switchAge(age) {
 }
 
 
-if (basicTeenager){
+if (basicTeenager()){
   "You are a teenager!"
 }
