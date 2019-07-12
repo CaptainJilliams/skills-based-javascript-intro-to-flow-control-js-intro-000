@@ -18,7 +18,3 @@ function switchAge(age) {
 
 }
 
-
-if (age){
-  basicTeenager()
-}
